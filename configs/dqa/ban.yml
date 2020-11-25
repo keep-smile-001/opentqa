@@ -1,0 +1,21 @@
+# Hyper-parameters of Networks:
+epoch: 11
+not_fine_tuned: True                # do not fine-tune simclr True/False
+gpu: 0
+lr: 3e-4
+
+dataset:
+  batch_size: 1
+  data_path: '/data/majie/majie/codehub/2020-opentqa/opentqa/datasets/'
+  num_works: 8
+
+pretrained_emb:
+  name: en_trf_bertbaseuncased_lg   # choices:en_vectors_web_lg, en_trf_robertabase_lg, en_trf_bertbaseuncased_lg
+  size: 768
+
+simclr:
+  base_model: 'resnet50'            # choose resnet-xx model
+  out_dim: 128
+  checkpoints_folder: '/data/majie/majie/codehub/simclr/runs/Sep08_21-33-04_lthpc/checkpoints'
+
+
