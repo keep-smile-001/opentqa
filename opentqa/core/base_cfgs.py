@@ -2,7 +2,6 @@
 # !/usr/bin/env python
 # _*_ coding: utf-8 _*_
 # @Time:2020/8/15 17:28
-# @Author:Ma Jie
 # -----------------------------------------------
 import torch, random, os
 import numpy as np

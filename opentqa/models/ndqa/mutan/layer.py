@@ -2,7 +2,6 @@
 # !/usr/bin/env python
 # _*_coding:utf-8 _*_
 # @Time: 2020/11/1 17:18
-# @Author:wyx
 # @File : layer.py
 # -----------------------------------------------
 

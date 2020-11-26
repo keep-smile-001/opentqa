@@ -2,7 +2,6 @@
 # !/usr/bin/env python
 # _*_ coding: utf-8 _*_
 # @Time:2020/10/19 9:59
-# @Author:Ma Jie
 # -----------------------------------------------
 
 from opentqa.core.base_cfgs import Configurations

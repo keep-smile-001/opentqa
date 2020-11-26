@@ -2,7 +2,6 @@
 # !/usr/bin/env python
 # _*_ coding: utf-8 _*_
 # @Time:2020/9/16 22:02
-# @Author:Ma Jie
 # -----------------------------------------------
 import torch
 import torch.nn.functional as F

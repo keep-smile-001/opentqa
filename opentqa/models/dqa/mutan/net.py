@@ -2,14 +2,12 @@
 # !/usr/bin/env python
 # _*_coding:utf-8 _*_
 # @Time: 2020/11/1 17:19
-# @Author:wyx
 # @File : net.py
 # -----------------------------------------------
 # -----------------------------------------------
 # !/usr/bin/env python
 # _*_ coding: utf-8 _*_
 # @Time:2020/8/6 15:30
-# @Author:Ma Jie
 # -----------------------------------------------
 import torch
 import torch.nn as nn

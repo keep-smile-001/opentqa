@@ -2,7 +2,6 @@
 #!/usr/bin/env python
 # _*_coding:utf-8 _*_
 #@Time:2020/8/3 8:30
-#@Author:Ma Jie
 #-----------------------------------------------
 import argparse, yaml, wandb
 from opentqa.models.model_loader import CfgLoader

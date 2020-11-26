@@ -2,7 +2,6 @@
 #!/usr/bin/env python
 # _*_ coding: utf-8 _*_
 #@Time:2020/9/14 11:08
-#@Author:Ma Jie
 #-----------------------------------------------
 from importlib import import_module
 

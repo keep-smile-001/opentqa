@@ -2,7 +2,6 @@
 # !/usr/bin/env python
 # _*_ coding: utf-8 _*_
 # @Time:2020/9/16 16:32
-# @Author:Ma Jie
 # -----------------------------------------------
 import torch, time, datetime, os, operator, wandb
 import numpy as np
