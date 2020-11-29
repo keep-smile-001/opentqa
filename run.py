@@ -31,7 +31,7 @@ def parse_input_args():
                       )
 
     args.add_argument('--model', dest='model',
-                      choices=['hmfn', 'xtqa', 'ban'],
+                      choices=['hmfn', 'xtqa', 'ban','CMR','mutan','mcan'],
                       type=str,
                       default='xtqa',
                       required=True

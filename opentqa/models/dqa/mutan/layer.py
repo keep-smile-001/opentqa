@@ -14,7 +14,7 @@ from torch.nn.utils.weight_norm import weight_norm
 from block import fusions
 
 """
-This code is modified by Linjie Li from  Remi Cadene's repository.
+This code is modified by *** from  Remi Cadene's repository.
 https://github.com/Cadene/vqa.pytorch
 """
 

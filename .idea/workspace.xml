@@ -5,46 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc66bf1b-776a-406e-a52c-7f1c9e12fcbc" name="Default Changelist" comment="">
+    <list default="true" id="bc66bf1b-776a-406e-a52c-7f1c9e12fcbc" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/core/base_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/core/base_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/core/base_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/core/base_path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/datasets/dataset_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/datasets/dataset_loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/datasets/dqa_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/datasets/dqa_loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/datasets/ndqa_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/datasets/ndqa_loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/ban/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/ban/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/ban/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/ban/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/ban/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/ban/net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/hmfn/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/hmfn/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/hmfn/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/hmfn/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/hmfn/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/hmfn/net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/mcan/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/mcan/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/mcan/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/mcan/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/mcan/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/mcan/net.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/mutan/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/mutan/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/mutan/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/mutan/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/mutan/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/mutan/net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/xtqa/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/xtqa/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/xtqa/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/xtqa/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/dqa/xtqa/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/dqa/xtqa/net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/model_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/model_loader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/ban/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/ban/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/ban/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/ban/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/ban/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/ban/net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/mcan/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/mcan/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/mcan/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/mcan/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/mcan/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/mcan/net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/mutan/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/mutan/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/mutan/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/mutan/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/mutan/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/mutan/net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/xtqa/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/xtqa/layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/xtqa/model_cfgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/xtqa/model_cfgs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentqa/models/ndqa/xtqa/net.py" beforeDir="false" afterPath="$PROJECT_DIR$/opentqa/models/ndqa/xtqa/net.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/optim.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/optim.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/tools.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,14 +40,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="96d6ff3b-9cc8-46a7-9c8e-3b4f156a1025" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1kyYONErlr8ZOKC5Gzzg2wgDei9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../2019-mlvqa" />
@@ -257,6 +221,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -267,6 +232,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596413635958</updated>
+      <workItem from="1606674268566" duration="581000" />
     </task>
     <task id="LOCAL-00082" summary="update the net of 'ban'">
       <created>1602490260747</created>
@@ -624,7 +590,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -670,14 +636,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="update xtqa, ban." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1606401880360">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1217.720@0.0.1217.720" timestamp="1606401880360" />
+    <state x="115" y="54" key="DiffContextDialog" timestamp="1606401870310">
+      <screen x="0" y="0" width="1217" height="720" />
+    </state>
+    <state x="115" y="54" key="DiffContextDialog/0.0.1217.720@0.0.1217.720" timestamp="1606401870310" />
     <state x="110" y="5" key="SettingsEditor" timestamp="1606398782781">
       <screen x="0" y="0" width="1217" height="720" />
     </state>
     <state x="110" y="5" key="SettingsEditor/0.0.1217.720@0.0.1217.720" timestamp="1606398782781" />
-    <state x="201" y="93" key="Vcs.Push.Dialog.v2" timestamp="1606401350595">
+    <state x="201" y="93" key="Vcs.Push.Dialog.v2" timestamp="1606401793562">
       <screen x="0" y="0" width="1217" height="720" />
     </state>
-    <state x="201" y="93" key="Vcs.Push.Dialog.v2/0.0.1217.720@0.0.1217.720" timestamp="1606401350595" />
+    <state x="201" y="93" key="Vcs.Push.Dialog.v2/0.0.1217.720@0.0.1217.720" timestamp="1606401793562" />
     <state x="668" y="0" width="549" height="720" key="find.popup" timestamp="1606401755772">
       <screen x="0" y="0" width="1217" height="720" />
     </state>
