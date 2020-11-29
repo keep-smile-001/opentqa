@@ -64,6 +64,7 @@ You can also add **your own model** to the project by following these steps:
 >1. Add **<tt>net.py</tt>**  to <tt>opentqa/models/[dataset]/</tt>  , it should accept the argumentation mentioned above;
 >2. Add **<tt>model_cfgs.py</tt>**  and **<tt>layers.py</tt>** according to your need;
 >3. Add <tt> **[model_name].yml** </tt>  to <tt>configs/[dataset]/</tt> , make sure it contains the global variables and the correct path of dataset.
+>4. Add your model name to the arguments in **<tt>run.py</tt>**
 
 Next we will talk about how to run the code.
 
